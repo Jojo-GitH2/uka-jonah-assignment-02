@@ -13,15 +13,15 @@ const assignment = {};
  * @param {Array} arrayOfNumbers the array of numbers to sum
  * @returns number the sum of the numbers
  */
-function sumOfNumbers(arrayOfNumbers) {
-  let sum = 0
-  for (let num of arrayOfNumbers){
-    sum += num
-  }
-  return sum;
-}
+// function sumOfNumbers(arrayOfNumbers) {
+//   let sum = 0
+//   for (let num of arrayOfNumbers){
+//     sum += num
+//   }
+//   return sum;
+// }
 
-assignment.sumOfNumbers = sumOfNumbers;
+// assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
